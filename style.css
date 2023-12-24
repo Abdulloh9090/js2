@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    background: url(https://www.veeforu.com/wp-content/uploads/2023/10/4K-Futuristic-Gaming-Backgrounds-Enriched-with-Sci-Fi-HUD-Elements-1024x576.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+*:hover {
+    
+}
+
+#malumot {
+    text-align: start;
+    text-decoration: dashed;
+    color: rgb(255, 255, 255);
+    padding-top: 310px;
+    padding-left: 462px;
+}
